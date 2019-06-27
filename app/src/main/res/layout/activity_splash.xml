@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/ThemRed">
+    <ImageView android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:scaleType="centerCrop"
+               android:src="@drawable/splashbg"/>
+
+
+    <RelativeLayout
+            android:paddingTop="@dimen/size_4dp"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_80dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:id="@+id/relativeLayout2">
+        <TextView
+                android:fontFamily="@font/alegreyasansscbold"
+                android:gravity="center"
+                android:textColor="@color/ThemRed"
+                android:layout_centerHorizontal="true"
+                android:textSize="13sp"
+                android:layout_width="@dimen/size_140dp"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_draw_own_world"/>
+
+    </RelativeLayout>
+    <TextView
+            android:fontFamily="@font/anton"
+            android:layout_marginBottom="@dimen/size_60dp"
+            android:textSize="48sp"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_bshop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+</android.support.constraint.ConstraintLayout>

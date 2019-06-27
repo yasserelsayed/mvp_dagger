@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364728724686",
+    "firebase_url": "https://pgshop-f26f6.firebaseio.com",
+    "project_id": "pgshop-f26f6",
+    "storage_bucket": "pgshop-f26f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364728724686:android:db2ea66823929617",
+        "android_client_info": {
+          "package_name": "com.example.printshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364728724686-ufsfscg0gt3sk6arjuhoc65mtm5vv3pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.printshop",
+            "certificate_hash": "8b9d826b3c8200fa1c8fd1fec8bf8fa60cf23e9e"
+          }
+        },
+        {
+          "client_id": "364728724686-0un7crhe12qpmio0jqfvdujrqsgtbdc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChB1atv3CoOE608Z26NqZ12ISRW7XYdD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364728724686-0un7crhe12qpmio0jqfvdujrqsgtbdc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

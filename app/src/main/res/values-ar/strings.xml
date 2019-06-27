@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">printshop</string>
+    <string name="txt_printed_gifts">printed gifts shop</string>
+
+    <string name="msg_please_connect_internet">يرجى التحقق من اتصال الإنترنت الخاص بك وحاول مرة أخرى</string>
+    <string name="msg_backend_error">المعذرة، حدث خطأ في النظام، الرجاء المحاولة لاحقا. رقم التحقق هو  </string>
+    <string name="msg_retry">إعادة المحاولة</string>
+    <string name="msg_valid_email_required">مطلوب بريد إلكتروني صحيح</string>
+    <string name="msg_this_field_required">هذا الحقل مطلوب</string>
+    <string name="msg_try_again">حدث خطأ يرجى المحاولة مرة أخرى</string>
+    <string name="msg_valid_number_required">مطلوب رقم صحيح</string>
+    <string name="msg_password_not_match">كلمة السر غير متطابقة</string>
+    <string name="msg_initial_user_data">بيانات المستخدم الأولية</string>
+    <string name="msg_confirm_password_donot_match">تأكيد كلمة المرور وكلمة المرور غير متطابقين</string>
+
+    <string name="txt_mail">email</string>
+    <string name="txt_phone_number">phone number</string>
+    <string name="txt_fullname">full name</string>
+    <string name="txt_password">password</string>
+    <string name="txt_confirm_password">confirm password</string>
+    <string name="txt_signup">sign up</string>
+    <string name="txt_login">login</string>
+    <string name="txt_forgot_password">forget password</string>
+    <string name="txt_draw_own_world">DRAW YOUR OWN WORLD</string>
+    <string name="txt_bshop">BSHOP</string>
+    <string name="txt_promo_code">promo code</string>
+    <string name="txt_social_login">SOCIAL LOGIN</string>
+    <string name="txt_pshop">pshop</string>
+    <string name="txt_continue_guest">continue as guest</string>
+    <string name="txt_already_have_account">لديك حساب بالفعل</string>
+    <string name="txt_no_account">don\'t have account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_master">MasterActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>

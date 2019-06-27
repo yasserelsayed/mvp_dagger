@@ -1,0 +1,57 @@
+<resources>
+
+
+    <string name="msg_please_connect_internet">Please check your internet connection and try again</string>
+    <string name="msg_backend_error">Sorry, we have encountered an error, please try again later. Reference Number:
+    </string>
+    <string name="msg_retry">Reload</string>
+    <string name="msg_try_again">Try Again Later</string>
+    <string name="msg_valid_email_required">Valid Email Required</string>
+    <string name="msg_this_field_required">This Field Required</string>
+    <string name="msg_password_not_match">Password Does Not Match</string>
+    <string name="msg_valid_number_required">Valid Number Required</string>
+    <string name="msg_initial_user_data">Initial User Data</string>
+    <string name="msg_confirm_password_donot_match">Confirm Password and Password do not match</string>
+
+    <string name="app_name">printshop</string>
+    <string name="txt_printed_gifts">print shop</string>
+    <string name="txt_mail">email</string>
+    <string name="txt_phone_number">phone number</string>
+    <string name="txt_fullname">full name</string>
+    <string name="txt_password">password</string>
+    <string name="txt_confirm_password">confirm password</string>
+    <string name="txt_signup">sign up</string>
+    <string name="txt_login">login</string>
+    <string name="txt_forgot_password">forget password</string>
+    <string name="txt_draw_own_world">DRAW YOUR OWN WORLD</string>
+    <string name="txt_bshop">BSHOP</string>
+    <string name="txt_promo_code">promo code</string>
+    <string name="txt_social_login">SOCIAL LOGIN</string>
+    <string name="txt_pshop">pshop</string>
+    <string name="txt_continue_guest">continue as guest</string>
+    <string name="txt_already_have_account">already have account</string>
+    <string name="txt_no_account">don\'t have account</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_master">MasterActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="facebook_app_id">432040850677315</string>
+    <string name="fb_login_protocol_scheme">fb432040850677315</string>
+
+
+</resources>
